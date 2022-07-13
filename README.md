@@ -14,6 +14,7 @@ Task is to create a Python script that analyzes the records to calculate each of
 
 * The greatest decrease in profits (date and amount) over the entire period
 
+### Output
 ```text
 Financial Analysis Report 
 Total Months: 86
@@ -36,6 +37,8 @@ In this challenge, you are tasked with helping a small, rural town modernize its
 * The total number of votes each candidate won
 
 * The winner of the election based on popular vote.
+
+### Output
 ```text
 Election Results
 Total Votes: 369711
