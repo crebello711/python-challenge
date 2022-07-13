@@ -53,7 +53,7 @@ Winner: Diana DeGette
 ```import csv```
 
 ## File Export 
-The exported text files are stored in ```analysis folder``` present in each of the PyBank and PyPoll folder.
+The exported text files are stored in ```analysis folder``` present in each of the PyBank and PyPoll directories.
 
 ## Resources 
 * [Stack Overflow](https://www.stackoverflow.com)
