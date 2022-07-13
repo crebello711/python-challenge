@@ -49,7 +49,6 @@ with open(csvpath) as csvfile:
 		elif j==index_maxDecrease :
 			monthDay_maxDecrease = dateValues[j]
 	
-
 print("Financial Analysis")
 print("----------------------------")
 print("Total Months: ",countMonth)
