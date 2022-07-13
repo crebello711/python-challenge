@@ -46,7 +46,8 @@ Winner: Diana DeGette
 ```
 ## Libraries Imported
 import os
+
 import csv
 
 ## File Export 
-The exported text files are stored in ### analysis ### folder for PyBank and PyPoll output repectively.
+The exported text files are stored in [analysis folder] for PyBank and PyPoll output repectively.
