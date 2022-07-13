@@ -16,7 +16,7 @@ Task is to create a Python script that analyzes the records to calculate each of
 
 * The greatest decrease in profits (date and amount) over the entire period
 
-- Financial Analysis Report 
+- ![#f03c15] Financial Analysis Report 
 
 **Total Months:** 86
 
