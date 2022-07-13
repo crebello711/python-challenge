@@ -54,3 +54,10 @@ Winner: Diana DeGette
 
 ## File Export 
 The exported text files are stored in ```analysis folder``` for PyBank and PyPoll output respectively.
+
+## Resources 
+* [Stack Overflow](https://www.stackoverflow.com)
+
+* [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
+
+* [Programiz](https://www.programiz.com/python-programming)
