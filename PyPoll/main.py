@@ -60,7 +60,7 @@ with open(csvpath) as csvfile:
 
 
 	#Write the output to text file
-	txtfile_Path = os.path.join('Election_Results.txt')
+	txtfile_Path = os.path.join('analysis','Election_Results.txt')
 	with open(txtfile_Path, "w") as textFile:
 		textFile.write("Election Results\n")
 		textFile.write("----------------------------\n")

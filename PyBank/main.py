@@ -58,7 +58,7 @@ print("Greatest Increase in Profits:",monthDay_maxIncrease,"($", maxIncrease,")"
 print("Greatest Decrease in Profits:",monthDay_maxDecrease,"($",maxDecrease,")")
 
 #Write the output to text file
-txtfile_Path = os.path.join('Financial_Analysis.txt')
+txtfile_Path = os.path.join('analysis','Financial_Analysis.txt')
 with open(txtfile_Path, "w") as textFile:
 	textFile.write("Financial Analysis\n")
 	textFile.write("----------------------------\n")
