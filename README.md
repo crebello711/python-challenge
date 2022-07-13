@@ -44,3 +44,9 @@ Diana DeGette: 73.812% (272892)
 Raymon Anthony Doane: 3.139% (11606)
 Winner: Diana DeGette
 ```
+## Libraries Imported
+import os
+import csv
+
+## File Export 
+The exported text files are stored in ### analysis ### folder for PyBank and PyPoll output repectively.
